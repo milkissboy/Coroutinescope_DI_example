@@ -1,12 +1,12 @@
 WIP : Coroutinescope, DI 예제
 ====================
-Dependency injection
-https://en.wikipedia.org/wiki/Dependency_injection
-Hilt
-Hilt와 Jetpack 통합
-Hilt 테스트 가이드
-Dagger
-Dagger2
+Dependency injection<p>
+https://en.wikipedia.org/wiki/Dependency_injection<p>
+Hilt<p>
+Hilt와 Jetpack 통합<p>
+Hilt 테스트 가이드<p>
+Dagger<p>
+Dagger2<p>
 
 Introduction
 ------------
